@@ -1,3 +1,11 @@
 h1{
     width: 10px;
 }
+p{
+    background-color: black;
+    color: red;
+    
+}
+p:hover{
+    color: green;
+}
