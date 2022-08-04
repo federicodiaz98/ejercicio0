@@ -1,11 +1,14 @@
 h1 {
     color: blueviolet;
+    font-display: fallback;
+    font-weight: 900;
 
 }
 
 p {
     color: red;
     background-color: black;
+    font-family: monospace;
     
 
 }
