@@ -38,3 +38,17 @@ p {
 p:hover {
     color: green;
 }
+
+h2.met {
+    position: relative;
+    text-align: center;
+    letter-spacing: 0.5rem;
+    background-color: #f917c3;
+    
+}
+
+p.met{
+    position: relative;
+    text-align: center;
+    font-size: 1rem;
+}
